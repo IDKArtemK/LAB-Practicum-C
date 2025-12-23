@@ -341,5 +341,5 @@ void main()
 
 /*Задание номер 4 из лабораторной работы по скв № 8*/
 /*feature-task*/
-/*conflict 12*/
+/*conflict 2*/
 
